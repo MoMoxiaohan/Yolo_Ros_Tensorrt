@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="demo01_test" type="server" name="server" output="screen" launch-prefix="gnome-terminal -- /bin/bash -c" />
+    <node pkg="demo01_test" type="client" name="client" output="screen" launch-prefix="gnome-terminal -- /bin/bash -c" />
+</launch>

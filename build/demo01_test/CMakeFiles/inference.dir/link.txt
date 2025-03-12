@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libinference.so -o /home/liu/桌面/yolo_opencv_ros_demo/demo01_test/devel/lib/libinference.so CMakeFiles/inference.dir/src/yolo_inference.cpp.o   -L/usr/local/cuda-12.2/lib64 

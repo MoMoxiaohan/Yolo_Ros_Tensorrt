@@ -1,0 +1,2 @@
+cv_bridge_480:demo01_test
+-DCATKIN_DEVEL_PREFIX=/home/liu/桌面/yolo_opencv_ros_demo/demo01_test/devel -DCMAKE_INSTALL_PREFIX=/home/liu/桌面/yolo_opencv_ros_demo/demo01_test/install -G Unix Makefiles

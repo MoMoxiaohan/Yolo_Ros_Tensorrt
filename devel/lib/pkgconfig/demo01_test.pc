@@ -1,0 +1,8 @@
+prefix=/home/liu/桌面/yolo_opencv_ros_demo/demo01_test/devel
+
+Name: demo01_test
+Description: Description of demo01_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs
